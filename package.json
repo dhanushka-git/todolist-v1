@@ -8,6 +8,9 @@
   },
   "author": "Shan Leo",
   "license": "ISC",
+  "engines": {
+    "node": "15.10.0"
+  },
   "dependencies": {
     "body-parser": "^1.19.0",
     "ejs": "^3.1.5",
